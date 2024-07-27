@@ -1,2 +1,12 @@
-# BharatVedh
-To develop a prediction model for heart diseases by using dataset from kaggle by taking user inputs of patients' health constrainst 
+---
+title: Heart Disease
+emoji: 🦀
+colorFrom: pink
+colorTo: purple
+sdk: gradio
+sdk_version: 3.23.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
